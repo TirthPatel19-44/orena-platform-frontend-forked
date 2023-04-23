@@ -1,0 +1,24 @@
+{
+  "name": "orena-platform-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "bootstrap": "5.2.3",
+    "jquery": "3.6.3",
+    "parcel-bundler": "1.12.5",
+    "prettier": "2.8.7"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}

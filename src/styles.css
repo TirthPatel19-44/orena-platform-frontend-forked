@@ -1,0 +1,28 @@
+.training.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.submenu {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: 10px;
+}
+
+.auto {
+  margin-left: -49%;
+  margin-top: -17%;
+  height: inherit;
+  width: inherit;
+  position: absolute;
+  margin-right: auto;
+  padding: 9px;
+}
+
+.listPad {
+  padding: 10px;
+}
+
+.animate-on-scroll {
+  display: none;
+}
